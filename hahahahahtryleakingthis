@@ -588,7 +588,7 @@ Home_2.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
 Home_2.BackgroundTransparency = 1.000
 Home_2.Position = UDim2.new(0, 0, 0.144805998, 0)
 Home_2.Size = UDim2.new(0, 504, 0, 292)
-Home_2.Visible = false
+Home_2.Visible = true
 
 UICorner_26.CornerRadius = UDim.new(0, 3)
 UICorner_26.Parent = Home_2
