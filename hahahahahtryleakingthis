@@ -86,7 +86,7 @@ Tendust.ResetOnSpawn = false
 --Properties:
 
 Tendust.Name = "Tendust"
-Tendust.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+Tendust.Parent = game.CoreGui
 Tendust.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
@@ -241,6 +241,7 @@ Home.Font = Enum.Font.GothamBold
 Home.Text = "Home"
 Home.TextColor3 = Color3.fromRGB(255, 255, 255)
 Home.TextSize = 14.000
+Home.Visible = true
 
 UICorner_10.Parent = Home
 
@@ -512,7 +513,7 @@ Trapgun.BackgroundColor3 = Color3.fromRGB(23, 23, 23)
 Trapgun.Position = UDim2.new(0.104950465, 0, 0.173611104, 0)
 Trapgun.Size = UDim2.new(0, 347, 0, 35)
 Trapgun.Font = Enum.Font.GothamBold
-Trapgun.Text = "Trap gun (FD)"
+Trapgun.Text = "Trap gun (FD) (BROKEN)"
 Trapgun.TextColor3 = Color3.fromRGB(170, 0, 0)
 Trapgun.TextSize = 19.000
 
@@ -537,7 +538,7 @@ NebulaStarGlitcher.BackgroundColor3 = Color3.fromRGB(23, 23, 23)
 NebulaStarGlitcher.Position = UDim2.new(0.104950465, 0, 0.173611104, 0)
 NebulaStarGlitcher.Size = UDim2.new(0, 347, 0, 35)
 NebulaStarGlitcher.Font = Enum.Font.GothamBold
-NebulaStarGlitcher.Text = "Nebula Star Glitcher (FD)"
+NebulaStarGlitcher.Text = "Nebula Star Glitcher (FD) (BROKEN)"
 NebulaStarGlitcher.TextColor3 = Color3.fromRGB(170, 0, 0)
 NebulaStarGlitcher.TextSize = 19.000
 
