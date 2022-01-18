@@ -83,6 +83,7 @@ local UIAspectRatioConstraint_5 = Instance.new("UIAspectRatioConstraint")
 
 Tendust.Name = "Tendust"
 Tendust.Parent = game.CoreGui
+Tendust.ResetOnSpawn = false
 Tendust.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 MainFrame.Name = "MainFrame"
